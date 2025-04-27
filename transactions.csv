@@ -1,0 +1,16 @@
+Date,Transaction,Amount,Category
+2025-01-05,Uber Ride,-12.50,Transport
+2025-01-06,McDonalds,-8.75,Food
+2025-01-10,Netflix Subscription,-15.99,Entertainment
+2025-01-12,Monthly Rent,-1200.00,Housing
+2025-01-15,Grocery Store,-95.20,Food
+2025-02-02,Uber Ride,-11.00,Transport
+2025-02-04,Starbucks,-6.45,Food
+2025-02-10,Amazon Purchase,-45.99,Shopping
+2025-02-12,Monthly Rent,-1200.00,Housing
+2025-02-20,Grocery Store,-110.30,Food
+2025-03-01,Uber Ride,-13.00,Transport
+2025-03-03,McDonalds,-9.25,Food
+2025-03-08,Spotify Subscription,-9.99,Entertainment
+2025-03-12,Monthly Rent,-1200.00,Housing
+2025-03-18,Grocery Store,-102.75,Food
