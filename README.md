@@ -1,0 +1,1 @@
+The Personal Finance Analyzer is a Python-based tool designed to help users visualize and understand their spending patterns. Using transaction data, it provides insightful visualizations and trend analysis to support better financial decision-making.
